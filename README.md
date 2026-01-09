@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I’m Unique 👋
 
-<!--
-**unique49/unique49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-level Application Support / Systems Support professional with a strong foundation in
+software systems, troubleshooting, and technical documentation.
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Application & Systems Support
+- Troubleshooting & Issue Resolution
+- Reading & Debugging Code (Java, Python, C++)
+- File I/O & Data Handling
+- Requirements Analysis & Documentation
+- SDLC Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 Academic Projects
+- Menu-driven application with input validation (Java)
+- File processing and data analysis program (Python)
+- Object-oriented system simulation (C++)
+
+### 🎯 Career Focus
+Application Support Specialist | Systems Support Analyst
